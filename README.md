@@ -4,7 +4,7 @@ This is a little program that solves defects on the toric code, using the blosso
 # Prerequisites
 After cloning the repo Vladimir Kolmogorov's Blossom V implementation needs to be downloaded from: http://pub.ist.ac.at/~vnk/software/blossom5-v2.05.src.tar.gz.
 
-Then untar the downloaded tar-archive into the repo folder, then the program should be good to go!
+Then untar the downloaded tar-archive into the repo folder, then build by simply running the make command in the blossom5-v2.05.src directory. Then the program should be good to go!
 
 ## How to use
 At the present the program is a bit barebones, the only way to change arguments for the program is at the present to change the values of variables in the program.
