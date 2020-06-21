@@ -1,7 +1,7 @@
 # MWPM_toric
 This is a little program that solves defects on the toric code, using the blossom algorithm, the program will solve random defects for a number of generations for a number of error probabilities. The succes rate, p_s, for all error probabilities will be outputed to a txt file in a results directory.
 
-##Prerequisites
+# Prerequisites
 After cloning the repo Vladimir Kolmogorov's Blossom V implementation needs to be downloaded from: http://pub.ist.ac.at/~vnk/software/blossom5-v2.05.src.tar.gz.
 
 Then untar the downloaded tar-archive into the repo folder, then the program should be good to go!
