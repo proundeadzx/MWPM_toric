@@ -183,7 +183,7 @@ def main(args):
 
     p_errors = [0.05, 0.06, 0.07]
     system_size = int(5)
-    nbr_of_iterations = int(float(1e2))
+    nbr_of_iterations = int(1e2)
 
     print(p_errors)
     ground_state_kept_list = []
