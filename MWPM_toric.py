@@ -181,7 +181,7 @@ def main(args):
     #         print(nbr_of_iterations)
 
 
-    p_errors = [0.05, 0.06, 0.07]
+    p_errors = [0.07]
     system_size = int(5)
     nbr_of_iterations = int(1e2)
 
